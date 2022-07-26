@@ -1,0 +1,37 @@
+.bg-blue{
+    background-color: rgb(22, 69, 107);
+}
+
+.burgers{
+    width: 100%;
+    height: 100%;
+}
+
+.border-black{
+    border-width: 3px;
+    border-color: rgba(0, 0, 0, 0.384);
+    border-style: solid;
+}
+
+.items{
+    overflow-y: scroll;
+    height: 60%;
+    margin: 10;
+}
+
+.item-img{
+    height: 100%;
+    width: 100%;
+}
+
+p{
+    line-height: 1;
+}
+
+.game{
+    margin: auto;
+}
+
+.h-20{
+  height: 20%;
+}
